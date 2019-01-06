@@ -1,3 +1,5 @@
+My workthrough of Kent C Dodds testing course.
+
 # Testing Workshop
 
 👋 hi there! My name is [Kent C. Dodds](https://kentcdodds.com)! This is a
