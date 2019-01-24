@@ -1,4 +1,4 @@
-My workthrough of Kent C Dodds testing course.
+My workthrough of Kent C Dodds testing course. All starter code provided.
 
 # Testing Workshop
 
